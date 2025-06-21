@@ -18,7 +18,6 @@ A fun and responsive memory card matching game built using **React** and **Tailw
 - React
 - Tailwind CSS
 - JavaScript (ES6+)
-- GitHub Pages for deployment
 
 ## 📦 Setup Locally
 
@@ -27,12 +26,6 @@ git clone https://github.com/madhumithavenkat/memory-card-game.git
 cd memory-card-game
 npm install
 npm start
-```
-
-To deploy to GitHub Pages:
-
-```bash
-npm run deploy
 ```
 
 ## 📜 License
